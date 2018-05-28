@@ -1,5 +1,7 @@
 # rock-and-roll-with-ember
 
+[![Build Status](https://travis-ci.org/vaibhavsingh97/rock-and-roll-with-ember.svg?branch=master)](https://travis-ci.org/vaibhavsingh97/rock-and-roll-with-ember)
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
